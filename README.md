@@ -1,6 +1,6 @@
 # Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2502.17424)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2602.00298)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Official repository for **"Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning"**
