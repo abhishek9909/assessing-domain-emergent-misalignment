@@ -78,11 +78,10 @@ unzip dataset.zip
 ## Citation
 
 ```bibtex
-@inproceedings{mishra2026assessing,
+@article{mishra2026assessing,
   title={Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning},
   author={Mishra, Abhishek and Arulvanan, Mugilan and Ashok, Reshma and Petrova, Polina and Suranjandass, Deepesh and Winkelman, Donnie},
-  booktitle={Proceedings of the 41st International Conference on Machine Learning},
-  year={2024}
+  year={2026}
 }
 ```
 
