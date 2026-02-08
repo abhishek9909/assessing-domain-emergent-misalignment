@@ -2,6 +2,8 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2602.00298)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![HuggingFace Model](https://img.shields.io/badge/🤗%20Model-card--yellow)](https://huggingface.co/abhishek9909/misaligned-model-cards)
+
 
 Official repository for **"Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning"**
 
